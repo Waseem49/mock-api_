@@ -2,7 +2,7 @@
 
 # step 1: Create a repository
 
-# step 2: clonoe it locally
+# step 2: clone it locally
 
 # step 3: add package.json to the file ,Just do npm init in terminal
 
